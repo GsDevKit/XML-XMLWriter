@@ -1,0 +1,15 @@
+{
+	"category" : "XML-Writer-Core-Writers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"xmlnsDeclarations",
+		"attributes" ],
+	"name" : "XMLUnsafeStartTagWriter",
+	"pools" : [
+		 ],
+	"super" : "XMLUnsafeTagWriter",
+	"type" : "normal" }

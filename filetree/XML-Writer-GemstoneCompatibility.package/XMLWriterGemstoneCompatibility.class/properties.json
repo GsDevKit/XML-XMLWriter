@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Writer-GemstoneCompatibility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLWriterGemstoneCompatibility",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

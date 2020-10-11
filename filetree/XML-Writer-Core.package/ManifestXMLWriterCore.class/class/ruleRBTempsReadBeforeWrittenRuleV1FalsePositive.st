@@ -1,0 +1,3 @@
+code-critics
+ruleRBTempsReadBeforeWrittenRuleV1FalsePositive
+	^ #(#(#(#RGMethodDefinition #(#XMLElementDeclarationWriter #writeContentModel #false)) #'2019-10-24T00:28:43.157475+02:00') #(#(#RGMethodDefinition #(#XMLAttributeDeclarationWriter #writeType #false)) #'2019-10-24T00:29:33.688891+02:00') #(#(#RGMethodDefinition #(#XMLPIWriter #writeData #false)) #'2019-10-24T00:31:13.213623+02:00') #(#(#RGMethodDefinition #(#XMLWriter #activeMarkupWriterWhileChangingDo: #false)) #'2019-10-24T00:33:42.360429+02:00') )

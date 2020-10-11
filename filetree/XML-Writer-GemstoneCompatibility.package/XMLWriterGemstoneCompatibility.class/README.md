@@ -1,0 +1,1 @@
+Used in development to copy String extension methods to CharacterCollection.

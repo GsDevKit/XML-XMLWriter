@@ -1,0 +1,15 @@
+{
+	"category" : "XML-Writer-Core-Writers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"isParameter" ],
+	"name" : "XMLEntityReferenceWriter",
+	"pools" : [
+		 ],
+	"super" : "XMLMarkupWriter",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "XML-Writer-Core-Writers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"attribute",
+		"type",
+		"defaultPragma",
+		"defaultValue" ],
+	"name" : "XMLAttributeDeclarationWriter",
+	"pools" : [
+		 ],
+	"super" : "XMLMarkupDeclarationWriter",
+	"type" : "normal" }

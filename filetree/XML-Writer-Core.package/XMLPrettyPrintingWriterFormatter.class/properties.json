@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Writer-Core-Formatting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLPrettyPrintingWriterFormatter",
+	"pools" : [
+		 ],
+	"super" : "XMLPrologPrettyPrintingWriterFormatter",
+	"type" : "normal" }

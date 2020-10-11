@@ -1,0 +1,16 @@
+{
+	"category" : "XML-Writer-Core-Formatting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"writer",
+		"indentString",
+		"currentIndentLevel" ],
+	"name" : "XMLWriterFormatter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

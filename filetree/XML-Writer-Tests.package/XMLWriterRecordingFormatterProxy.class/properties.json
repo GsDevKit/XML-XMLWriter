@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Writer-Tests-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"messageQueue" ],
+	"name" : "XMLWriterRecordingFormatterProxy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

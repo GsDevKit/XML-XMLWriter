@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfXMLWriter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfXMLWriter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

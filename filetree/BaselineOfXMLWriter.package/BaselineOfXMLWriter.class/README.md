@@ -1,0 +1,1 @@
+A baseline for XML writer for Pharo (https://github.com/pharo-contributions/XML-XMLWriter)
