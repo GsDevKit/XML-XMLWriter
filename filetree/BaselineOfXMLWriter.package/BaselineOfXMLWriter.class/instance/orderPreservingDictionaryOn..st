@@ -6,7 +6,7 @@ orderPreservingDictionaryOn: spec
       with: [ 
 			spec
 				loads: #('Core');
-				repository: 'github://brunobuzzi/OrderPreservingDictionary:gemstone/filetree' ]. 
+				repository: 'github://GsDevKit/OrderPreservingDictionary:gemstone/filetree' ]. 
 				
 	spec 
 		project: 'OrderPreservingDictionary Tests' copyFrom: 'OrderPreservingDictionary' with: [ spec loads: #('Tests') ];			
