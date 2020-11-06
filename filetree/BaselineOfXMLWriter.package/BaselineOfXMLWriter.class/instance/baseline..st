@@ -29,4 +29,6 @@ baseline: spec
 		do: [
 			spec
 				package: 'XML-Writer-Core' with: [ spec includes: 'XML-Writer-GemstoneCompatibility' ];
-				package: 'XML-Writer-GemstoneCompatibility' with: [ spec requires: 'XML-Writer-Core' ]]	
+				package: 'XML-Writer-GemstoneCompatibility' with: [ spec requires: 'XML-Writer-Core' ];
+				package: 'XML-Writer-Tests' with: [ spec includes: 'XML-Writer-Tests-GemstoneCompatibility' ];
+				package: 'XML-Writer-Tests-GemstoneCompatibility' with: [ spec requires: 'XML-Writer-Tests' ]]
