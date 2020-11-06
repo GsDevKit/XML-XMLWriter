@@ -1,2 +1,1 @@
-SystemOrganization addCategory: #'XML-Writer-Tests-Tests'!
-SystemOrganization addCategory: #'XML-Writer-Tests-Utilities'!
+SystemOrganization addCategory: #'XML-Writer-Tests-Core'!
