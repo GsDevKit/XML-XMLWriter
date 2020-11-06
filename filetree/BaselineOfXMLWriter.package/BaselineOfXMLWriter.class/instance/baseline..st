@@ -13,13 +13,13 @@ baseline: spec
 			"Packages"
 			spec 
 				package: 'XML-Writer-Core' with: [ spec requires: #('OrderPreservingDictionary') ];
-				package: 'XML-Writer-Tests' with: [ spec requires: #('XML-Writer-Core' 'OrderPreservingDictionary Tests') ].
+				package: 'XML-Writer-Tests-Core' with: [ spec requires: #('XML-Writer-Core' 'OrderPreservingDictionary Tests') ].
 						
 			"Groups"
 			spec
 				group: 'Core' with: #('XML-Writer-Core');
 				group: 'Tools' with: #('OrderPreservingDictionary Tools');  
-				group: 'Tests' with: #('XML-Writer-Tests'); 	
+				group: 'Tests' with: #('XML-Writer-Tests-Core'); 	
 				group: 'all' with: #('Core' 'Tools' 'Tests');
 				group: 'default' with: #('all') ].
 
@@ -30,5 +30,5 @@ baseline: spec
 			spec
 				package: 'XML-Writer-Core' with: [ spec includes: 'XML-Writer-GemstoneCompatibility' ];
 				package: 'XML-Writer-GemstoneCompatibility' with: [ spec requires: 'XML-Writer-Core' ];
-				package: 'XML-Writer-Tests' with: [ spec includes: 'XML-Writer-Tests-GemstoneCompatibility' ];
-				package: 'XML-Writer-Tests-GemstoneCompatibility' with: [ spec requires: 'XML-Writer-Tests' ]]
+				package: 'XML-Writer-Tests-Core' with: [ spec includes: 'XML-Writer-Tests-GemstoneCompatibility' ];
+				package: 'XML-Writer-Tests-GemstoneCompatibility' with: [ spec requires: 'XML-Writer-Tests-Core' ]]
