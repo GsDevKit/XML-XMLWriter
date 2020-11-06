@@ -36,4 +36,4 @@ testXMLDeclarations
 			'<?xml version="1.0" standalone="yes"?>',
 			'<?xml version="1.1" encoding="UTF-16LE" standalone="yes"?>',
 			'<?xml version="1.0"?>',
-			'<?xml version="1.0"?>') 
+			'<?xml version="1.0"?>')

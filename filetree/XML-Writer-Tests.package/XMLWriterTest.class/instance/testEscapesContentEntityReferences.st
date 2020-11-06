@@ -24,4 +24,4 @@ testEscapesContentEntityReferences
 		assert: writer escapesContentEntityReferences;
 		assert: writer isEscaping;
 		assert: writer contentEscapes equals: writer contentDefaultEscapes;
-		assert: writer contentStringEscapes equals: writer contentStringDefaultEscapes 
+		assert: writer contentStringEscapes equals: writer contentStringDefaultEscapes

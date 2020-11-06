@@ -48,4 +48,4 @@ testEnablePrettyPrintingDTD
 					'<!NOTATION external SYSTEM "external.txt">'
 					'<?target data?>')
 				#(0 ']>'
-					''))) 
+					'')))

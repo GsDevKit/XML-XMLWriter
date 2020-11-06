@@ -9,4 +9,4 @@ testEntityReference
 			writer string: 'two'.
 			writer & 'three'].
 
-	self assert: writer contents equals: '<entities>&one;two&three;</entities>' 
+	self assert: writer contents equals: '<entities>&one;two&three;</entities>'

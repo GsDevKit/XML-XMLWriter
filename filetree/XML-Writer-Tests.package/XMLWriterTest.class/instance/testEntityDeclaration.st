@@ -34,4 +34,4 @@ testEntityDeclaration
 				'<!ENTITY publicExternal PUBLIC "publicID" "">',
 				'<!ENTITY systemExternal SYSTEM "systemID">',
 				'<!ENTITY unparsed SYSTEM "systemID" NDATA notation>',
-				']>') 
+				']>')

@@ -24,4 +24,4 @@ testWideStringContent
 	self assert:
 		writer contents  equals:
 			('<!DOCTYPE test [<!ENTITY test "{1}">]><test test="{1}">{1}</test>'
-				format: (Array with: wideStringContent)) 
+				format: (Array with: wideStringContent))
