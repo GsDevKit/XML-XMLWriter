@@ -1,4 +1,4 @@
-tests
+*XML-Writer-Tests-Pharo
 testXMLNSDeclarations
 	| writer tag |
 
