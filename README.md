@@ -12,7 +12,7 @@ This package provides a [Seaside](http://www.seaside.st)-like, block-based API f
 ```smalltalk
 Metacello new
 	baseline: 'XMLWriter';
-	repository: 'github://pharo-contributions/XML-XMLWriter/src';
+	repository: 'github://GsDevKit/XML-XMLWriter:gemstone/filetree';
 	load.
 ```
 ### tODE command line
