@@ -8,12 +8,19 @@ This package provides a [Seaside](http://www.seaside.st)-like, block-based API f
 
 ## Installation
 
+### Metacello
 ```smalltalk
 Metacello new
 	baseline: 'XMLWriter';
 	repository: 'github://pharo-contributions/XML-XMLWriter/src';
 	load.
 ```
+### tODE command line
+```
+project install --url=http://gsdevkit.github.io/GsDevKit_home/XMLWriter.ston
+project load XMLWriter
+```
+
 ## Usage
 
 A simple example on how to use the XML writer
