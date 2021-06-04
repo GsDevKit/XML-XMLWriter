@@ -1,6 +1,6 @@
 # XML-XMLWriter
 
-[![Build Status](https://travis-ci.org/GsDevKit/XML-XMLWriter.svg?branch=master)](https://travis-ci.org/GsDevKit/XML-XMLWriter)
+[![Build Status](https://github.com/GsDevKit/XML-XMLWriter/actions/workflows/ci.yml/badge.svg?branch=gemstone)](https://github.com/GsDevKit/XML-XMLWriter/actions/workflows/ci.yml)
 
 GemStone port of project.
 
